@@ -1,3 +1,3 @@
 # WebScraping
 
-Please Type "npm install"
+Please Run "npm install" in Terminal
